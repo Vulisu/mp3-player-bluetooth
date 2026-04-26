@@ -49,11 +49,21 @@ The format is
 ```
 
 -->
+### Bill of Materials
 
 | Device | Usage | Price |
 |--------|--------|-------|
-| [Raspberry Pi Pico W](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html) | The microcontroller | [35 RON](https://www.optimusdigital.ro/en/raspberry-pi-boards/12394-raspberry-pi-pico-w.html) |
-
+| [Raspberry Pi Pico W](https://www.optimusdigital.ro/en/raspberry-pi-boards/12394-raspberry-pi-pico-w.html) | Main microcontroller for decoding and logic (x2) | 79.32 RON |
+| [MH-M28 Bluetooth Module](https://www.optimusdigital.ro/ro/module-audio/2957-modul-pentru-transmisie-audio-fara-fir-ble-stereo-mh-m28.html) | Handles wireless audio transmission to speakers | 13.29 RON |
+| [PAM8403 Amplifier Modul](https://www.optimusdigital.ro/ro/module-audio/13699-modul-amplificator-audio-cu-potentiometru-pam8403.html) | Amplifies audio signal for local output | 6.99 RON |
+| [Breadboard HQ830 Kit](https://www.optimusdigital.ro/ro/breadboard-uri/1352-kit-breadboard-hq830-cu-fire-si-sursa.html) | Prototyping base with power supply module | 22.00 RON |
+| [Potentiometer 50k Mono](https://www.optimusdigital.ro/ro/potentiometre/18387-potentiometru-mono-50k.html) | Analog volume control input | 1.49 RON |
+| [Buttons (6x6x6)](https://www.optimusdigital.ro/ro/butoane-si-comutatoare/10862-buton-6x6x6.html) | Song control (Play/Pause, Skip, Back) (x10) | 3.60 RON |
+| [Power Button with Red LED](https://www.optimusdigital.ro/ro/butoane-si-comutatoare/20628-buton-de-pornire-cu-led-rosu.html) | Main power switch with visual indicator | 7.75 RON |
+| [Jumper Wires (M-F)](https://www.optimusdigital.ro/ro/fire-conectori-si-socluri/3864-fire-colorate-mama-tata-40p-10-cm.html) | Connecting components to the Pico | 5.99 RON |
+| [Headers (Male/Female)](https://www.optimusdigital.ro/ro/fire-conectori-si-socluri/11944-header-de-pini-verde-254-mm-40p.html) | Soldering to the Pico for breadboard use | 11.88 RON |
+| [LED Pack (R/V/A)](https://www.optimusdigital.ro/ro/led-uri/6186-led-rosu-de-3-mm-cu-lentile-difuze.html) | Status indicators (Power, BT Link, SD Activity) | 1.04 RON |
+| [Resistors 220Ω](https://www.optimusdigital.ro/ro/rezistori/10053-rezistor-025w-220.html) | Current limiting for LEDs (x8) | 0.80 RON |
 
 ## Software
 
