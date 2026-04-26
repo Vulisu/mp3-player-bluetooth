@@ -32,11 +32,14 @@ The format is
 ```
 
 Device	Usage	Price
-Raspberry Pi Pico 2W	The microcontroller	35 RON
+Raspberry Pi Pico W	The microcontroller	35 RON
 
 Software
 Library	Description	Usage
-
+st7789	Display driver for ST7789	Used for the display for the Pico Explorer Base
+embedded-graphics	2D graphics library	Used for drawing to the display
 Links
 <!-- Add a few links that inspired you and that you think you will use for your project -->
-
+link
+link
+...
