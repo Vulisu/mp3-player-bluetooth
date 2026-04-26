@@ -59,8 +59,8 @@ The format is
 
 | Library | Description | Usage |
 |---------|-------------|-------|
-| [st7789](https://github.com/almindor/st7789) | Display driver for ST7789 | Used for the display for the Pico Explorer Base |
-| [embedded-graphics](https://github.com/embedded-graphics/embedded-graphics) | 2D graphics library | Used for drawing to the display |
+| [embassy-rs](https://github.com/embassy-rs/embassy) | Embassy-rs | Async GPIO, PWM, PIO, and ADC |
+| [Synphonia](https://github.com/pdeljanov/Symphonia) | Audio decoding | Decode the mp3 to be able to be played |
 
 ## Links
 
